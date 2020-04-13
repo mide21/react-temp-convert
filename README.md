@@ -1,10 +1,10 @@
-## Todo-Convert
+## Temp-Convert
 
-A simple Todo-App built with React
+A calculator that converts Celsius temp to Fahrenheit and vice versa
 
 ## Try it
 
-https://github.com/mide21/Todo-App
+https://github.com/mide21/Temp-convert
 
 ## Install
 
