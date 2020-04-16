@@ -10,8 +10,6 @@ https://github.com/mide21/Temp-convert
 
  `npm install`
 
- `$ npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome`
-
 
 ## Usage
 
