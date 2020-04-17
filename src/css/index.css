@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  line-height: 30px;
+  font-size: 17px;
+}
+
+.temp {
+  margin: 70px 100px;
+  border-radius: 5px;
+  width: 400px;
+  height: 270px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 10px;
+  background: #f7f7f7;
+}
+
+#temperature input {
+  border: 0;
+  background-color: #f7f7f7;
+  font-size: 25px;
+  padding: 5px 0 5px 10px;
+  border-top: 1px solid silver;
+  width: 400px;
+  margin: -10px 0 70px 0;
+}
+
+#temperature input:focus {
+  outline: none;
+}
+
+#temperature::placeholder {
+  margin-top: 0px;
+}
+
+.param {
+  margin: 5px 0 0 0;
+  padding: 5px 40px 0 40px;
+}
+
+.param p {
+  font-size: 20px;
+}
+
+.param p:last-child {
+  margin-top: -45px;
+  float: right;
+}
+
+.icon1 {
+  position: absolute;
+  top: 80px;
+  left: 380px;
+}
+
+.icon2 {
+  position: absolute;
+  top: 87px;
+  left: 386px;
+}
